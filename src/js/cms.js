@@ -8,6 +8,7 @@ import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
 
 
+
 // Example of creating a custom color widget
 class ColorControl extends React.Component {
   render() {
